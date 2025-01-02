@@ -1,4 +1,4 @@
-#Hi 👋 !
+# Hi 👋 !
 
 I am **Koffi Jean-Marie Kouadio, PMP®**, a passionate professional specializing in **IT project management**, **cybersecurity**, and **automation**. On this profile, you’ll find my contributions to various projects, explorations of modern technologies, and initiatives to transform ideas into tangible solutions.
 
